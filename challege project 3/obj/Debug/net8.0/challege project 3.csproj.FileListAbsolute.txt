@@ -1,0 +1,14 @@
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/bin/Debug/net8.0/challege project 3
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/bin/Debug/net8.0/challege project 3.deps.json
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/bin/Debug/net8.0/challege project 3.runtimeconfig.json
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/bin/Debug/net8.0/challege project 3.dll
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/bin/Debug/net8.0/challege project 3.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/challege project 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/challege project 3.AssemblyInfoInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/challege project 3.AssemblyInfo.cs
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/challege project 3.csproj.CoreCompileInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/challege project 3.dll
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/refint/challege project 3.dll
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/challege project 3.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/challege project 3.genruntimeconfig.cache
+/Users/jalenpless/Desktop/c-sharp Projects/challege project 3/obj/Debug/net8.0/ref/challege project 3.dll

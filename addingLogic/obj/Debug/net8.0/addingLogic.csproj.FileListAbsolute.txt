@@ -1,0 +1,14 @@
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/bin/Debug/net8.0/addingLogic
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/bin/Debug/net8.0/addingLogic.deps.json
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/bin/Debug/net8.0/addingLogic.runtimeconfig.json
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/bin/Debug/net8.0/addingLogic.dll
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/bin/Debug/net8.0/addingLogic.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/addingLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/addingLogic.AssemblyInfoInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/addingLogic.AssemblyInfo.cs
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/addingLogic.csproj.CoreCompileInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/addingLogic.dll
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/refint/addingLogic.dll
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/addingLogic.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/addingLogic.genruntimeconfig.cache
+/Users/jalenpless/Desktop/c-sharp Projects/addingLogic/obj/Debug/net8.0/ref/addingLogic.dll

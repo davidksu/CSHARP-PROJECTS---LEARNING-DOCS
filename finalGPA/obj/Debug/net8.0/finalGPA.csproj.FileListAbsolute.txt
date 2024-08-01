@@ -1,0 +1,14 @@
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/bin/Debug/net8.0/finalGPA
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/bin/Debug/net8.0/finalGPA.deps.json
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/bin/Debug/net8.0/finalGPA.runtimeconfig.json
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/bin/Debug/net8.0/finalGPA.dll
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/bin/Debug/net8.0/finalGPA.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/finalGPA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/finalGPA.AssemblyInfoInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/finalGPA.AssemblyInfo.cs
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/finalGPA.csproj.CoreCompileInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/finalGPA.dll
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/refint/finalGPA.dll
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/finalGPA.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/finalGPA.genruntimeconfig.cache
+/Users/jalenpless/Desktop/c-sharp Projects/finalGPA/obj/Debug/net8.0/ref/finalGPA.dll
