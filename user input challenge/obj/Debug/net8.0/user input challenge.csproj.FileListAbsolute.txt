@@ -1,0 +1,14 @@
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/bin/Debug/net8.0/user input challenge
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/bin/Debug/net8.0/user input challenge.deps.json
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/bin/Debug/net8.0/user input challenge.runtimeconfig.json
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/bin/Debug/net8.0/user input challenge.dll
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/bin/Debug/net8.0/user input challenge.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/user input challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/user input challenge.AssemblyInfoInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/user input challenge.AssemblyInfo.cs
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/user input challenge.csproj.CoreCompileInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/user input challenge.dll
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/refint/user input challenge.dll
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/user input challenge.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/user input challenge.genruntimeconfig.cache
+/Users/jalenpless/Desktop/c-sharp Projects/user input challenge/obj/Debug/net8.0/ref/user input challenge.dll
