@@ -1,0 +1,14 @@
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/bin/Debug/net8.0/Code Project 1 - write code that validates integer input
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/bin/Debug/net8.0/Code Project 1 - write code that validates integer input.deps.json
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/bin/Debug/net8.0/Code Project 1 - write code that validates integer input.runtimeconfig.json
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/bin/Debug/net8.0/Code Project 1 - write code that validates integer input.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/bin/Debug/net8.0/Code Project 1 - write code that validates integer input.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/Code Project 1 - write code that validates integer input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/Code Project 1 - write code that validates integer input.AssemblyInfoInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/Code Project 1 - write code that validates integer input.AssemblyInfo.cs
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/Code Project 1 - write code that validates integer input.csproj.CoreCompileInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/Code Project 1 - write code that validates integer input.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/refint/Code Project 1 - write code that validates integer input.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/Code Project 1 - write code that validates integer input.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/Code Project 1 - write code that validates integer input.genruntimeconfig.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Code Project 1 - write code that validates integer input/obj/Debug/net8.0/ref/Code Project 1 - write code that validates integer input.dll
