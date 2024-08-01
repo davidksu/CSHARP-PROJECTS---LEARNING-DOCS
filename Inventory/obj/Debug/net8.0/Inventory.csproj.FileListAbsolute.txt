@@ -1,0 +1,14 @@
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/bin/Debug/net8.0/Inventory
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/bin/Debug/net8.0/Inventory.deps.json
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/bin/Debug/net8.0/Inventory.runtimeconfig.json
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/bin/Debug/net8.0/Inventory.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/bin/Debug/net8.0/Inventory.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/Inventory.AssemblyInfoInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/Inventory.AssemblyInfo.cs
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/Inventory.csproj.CoreCompileInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/Inventory.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/refint/Inventory.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/Inventory.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/Inventory.genruntimeconfig.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Inventory/obj/Debug/net8.0/ref/Inventory.dll
