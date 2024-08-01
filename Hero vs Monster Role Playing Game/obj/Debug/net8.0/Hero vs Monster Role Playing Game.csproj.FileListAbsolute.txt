@@ -1,0 +1,14 @@
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/bin/Debug/net8.0/Hero vs Monster Role Playing Game
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/bin/Debug/net8.0/Hero vs Monster Role Playing Game.deps.json
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/bin/Debug/net8.0/Hero vs Monster Role Playing Game.runtimeconfig.json
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/bin/Debug/net8.0/Hero vs Monster Role Playing Game.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/bin/Debug/net8.0/Hero vs Monster Role Playing Game.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/Hero vs Monster Role Playing Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/Hero vs Monster Role Playing Game.AssemblyInfoInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/Hero vs Monster Role Playing Game.AssemblyInfo.cs
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/Hero vs Monster Role Playing Game.csproj.CoreCompileInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/Hero vs Monster Role Playing Game.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/refint/Hero vs Monster Role Playing Game.dll
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/Hero vs Monster Role Playing Game.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/Hero vs Monster Role Playing Game.genruntimeconfig.cache
+/Users/jalenpless/Desktop/c-sharp Projects/Hero vs Monster Role Playing Game/obj/Debug/net8.0/ref/Hero vs Monster Role Playing Game.dll
