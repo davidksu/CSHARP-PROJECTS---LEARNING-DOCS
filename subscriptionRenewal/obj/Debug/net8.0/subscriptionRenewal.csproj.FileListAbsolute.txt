@@ -1,0 +1,14 @@
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/bin/Debug/net8.0/subscriptionRenewal
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/bin/Debug/net8.0/subscriptionRenewal.deps.json
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/bin/Debug/net8.0/subscriptionRenewal.runtimeconfig.json
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/bin/Debug/net8.0/subscriptionRenewal.dll
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/bin/Debug/net8.0/subscriptionRenewal.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/subscriptionRenewal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/subscriptionRenewal.AssemblyInfoInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/subscriptionRenewal.AssemblyInfo.cs
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/subscriptionRenewal.csproj.CoreCompileInputs.cache
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/subscriptionRenewal.dll
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/refint/subscriptionRenewal.dll
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/subscriptionRenewal.pdb
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/subscriptionRenewal.genruntimeconfig.cache
+/Users/jalenpless/Desktop/c-sharp Projects/subscriptionRenewal/obj/Debug/net8.0/ref/subscriptionRenewal.dll
